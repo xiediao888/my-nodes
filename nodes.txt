@@ -1,1 +1,0 @@
-vless://428bed8a-ecc3-4621-ad11-3a8ed90886ec@104.16.73.50:443?security=tls&type=xhttp&path=/mashdi&alpn=h2&sni=c1n412erox434ksskso1.jakkkat.ir&fp=firefox&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20649313

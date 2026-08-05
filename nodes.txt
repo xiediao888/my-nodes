@@ -1,3 +1,1 @@
 vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?&security=tls&fp=firefox&alpn=h2&sni=ddc-akn.astralweb.tech&type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@77.105.163.46:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&type=ws&headerType=none&host=ov186.ochmaybrooooo.online&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0169

@@ -1,5 +1,2 @@
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0417
-vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?&security=tls&fp=safari&alpn=http%2F1.1&sni=cloudflare.vhub.pro&type=ws&headerType=none&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%AA%F0%9F%87%AA%20%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20%7C%20EST
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD

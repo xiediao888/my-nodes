@@ -1,2 +1,6 @@
-vless://fae482df-d9f1-491f-9f9e-1ee522d4560c@aws-jp01.ziyoufly.xyz:55555?&security=reality&flow=xtls-rprx-vision&pbk=1XQ60qYOfBZJpcilNV9Fu7OSpuO5_6-zrNZIYhB_YU4&sid=af317506&fp=chrome&sni=iosapps.itunes.apple.com&type=tcp&headerType=none&host=iosapps.itunes.apple.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+vless://78eb741d-579e-4738-b647-9a850646060f@one.alpheratzz.org:443?&security=tls&fp=firefox&sni=app-6a7eb845.adhil.uk&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20%7C%20EST
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
+vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?&security=tls&fp=firefox&alpn=h2&sni=e7e90e6b.ferrin.uk&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR
 trojan://humanity@2.144.21.112:40443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.8.2-0151

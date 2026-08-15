@@ -1,6 +1,5 @@
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.8.2-0151
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IHwgVVNBIiwiYWRkIjoicnVzaC02aXQ2Yi50ZWVvcHAucXVlc3QiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8va3o0OWhmL2diaW41anZlLm0zdTgiLCJob3N0IjoicnVzaC02aXQ2Yi50ZWVvcHAucXVlc3QiLCJ0bHMiOiJ0bHMifQ==
-trojan://humanity@104.26.14.137:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://humanity@8.6.112.0:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
-trojan://humanity@104.18.152.208:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
-vless://ba746959-18e7-471c-b00f-fa5cdd930abf@skk.moe:8880?&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTAgMS44TUIvcyIsImFkZCI6Im5lby5ub3Zhcm8uaXIiLCJwb3J0IjoiMjA4NyIsImlkIjoiMjYwMjcwZTktYzI1Yy00OTFhLTg3NzctZWE0ZTUxNzNkNDljIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkwIn0=
+trojan://humanity@2.144.21.112:40443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.wto.org:2053?fp=edge&host=usa.105794.xyz&path=%2Fdownload%2Fv3%2Finstaller-x64.bin&security=tls&sni=usa.105794.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD

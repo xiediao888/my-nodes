@@ -1,4 +1,4 @@
-trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0265
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.76.222.30:8443?&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@se1.se-cdn.ru:443?&security=reality&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8&fp=edge&sni=se1.se-cdn.ru&type=tcp&headerType=none&host=se1.se-cdn.ru&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.217.65:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD19
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#%F0%9F%87%B9%F0%9F%87%AD%20%E6%B3%B0%E5%9B%BD%20%7C%20THA
+ss://YWVzLTEyOC1nY206OTI5YzVjZTgtMjIyYi00ZDkzLWE4MGYtOWVkNTgwZTJlOGMx@0ccenterhk-c.center-link.org:613#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN
+ss://YWVzLTEyOC1nY206OTI5YzVjZTgtMjIyYi00ZDkzLWE4MGYtOWVkNTgwZTJlOGMx@0ccenterhk-c.center-link.org:611#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG

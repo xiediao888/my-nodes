@@ -1,6 +1,4 @@
-vless://63650025-84ff-4272-cfd4-61e7b9ee8834@k2.cloud--vpn.site:443?&security=tls&fp=firefox&alpn=h2&sni=ssl.fastly.com&type=ws&headerType=none&host=c12.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
-trojan://humanity@172.67.74.2:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://humanity@216.24.57.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@194.238.42.191:443?&security=reality&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&sni=kz.freeinternat.com&type=tcp&headerType=none&host=kz.freeinternat.com&path=%2F#%F0%9F%87%B0%F0%9F%87%BF%20%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%20%7C%20KAZ
-vless://63650025-84ff-4272-cfd4-61e7b9ee8834@151.101.56.6:443?&security=tls&fp=chrome&alpn=h2&sni=ssl.fastly.com&type=ws&headerType=none&host=c12.com&path=%2F%3FTELEGRAM--KANAL--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%F0%9F%87%B1%F0%9F%87%B9%20%E7%AB%8B%E9%99%B6%E5%AE%9B%20%7C%20LTU
+trojan://humanity@104.26.14.137:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://humanity@141.101.90.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD4
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?encryption=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD

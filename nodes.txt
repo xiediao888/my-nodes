@@ -1,30 +1,30 @@
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@43.174.195.1:443?security=tls&sni=kv.074167.xyz&type=ws&path=%2F&host=kv.074167.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
-vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.177:80?type=ws&path=%2FeyJqdW5rIjoibHFUM0pwRHZXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19&host=icy-darkness-8ff1.farzambia12mo.workers.dev#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_80
-vless://e382b6dd-2dac-49c5-b16f-1cd0a6b73bf2@50.62.195.4:80?type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=raspy-feather-12ec.137-257.workers.dev#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_122
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?security=reality&encryption=none&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&sid=f3c4d918e7c4f744#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@150.251.113.76:8443?security=tls&sni=kv.074167.xyz&type=ws&path=%2F&host=kv.074167.xyz#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?security=tls&sni=cf9.rumedia-cdn.com&type=ws&path=%2Fcdn%2Fv3%2Flive#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_405
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@185.20.227.208:8443?security=tls&sni=kv.074167.xyz&type=ws&path=%2F&host=kv.074167.xyz#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@38.54.29.210:2053?security=tls&sni=kv.074167.xyz&type=ws&path=%2F&host=kv.074167.xyz#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20%7C%20GRC
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.34.14:2082?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-953044997
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2052?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-928812955
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-941486947
-vless://a1a6a3be-2bf9-46a2-bc24-328306e49ab7@104.21.16.137:443?security=tls&sni=3-M17.kuWait-aiRLinE.KDNS.fr&type=ws&path=%2FfVs1qv0xm8dxmnwuaPwokxgY4XlP&host=3-m17.kUwaIT-AirLINe.KDnS.fr#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_108
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:2082?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-1016635209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.35-0083
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.234:80?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-941486962
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?security=tls&sni=jp3.yohototo.top&type=ws&path=%2Ftyxyws#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_312
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-897906546
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:8080?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#CA 🇨🇦 | @Raydikalx | C269F9
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@www.speedtest.net:2096?alpn=http/1.1,h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=zahra2011.tr&mode=auto&path=/@mahdi_383ir&security=tls&sni=zahra2011.tr&type=xhttp&x_padding_bytes=100-1000#CA 🇨🇦 | @Raydikalx | D097DB
-vless://b2c43c2d-01fb-48ee-9a1c-8f1ee3227e10@104.17.31.225:443?security=tls&sni=myclashes.top&type=ws&path=%2F#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_329
-trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&path=%2F&host=vms.lifetime50.workers.dev#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_117
-vless://c20a0bcf-aa6f-4c35-9e62-a39b47b04e73@91.206.71.8:80?type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=round-haze-8783.294.workers.dev#%F0%9F%87%B9%F0%9F%87%B7_%E5%9C%9F%E8%80%B3%E5%85%B6_105
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.30:8880?type=ws&path=%2F&host=vms.lifetime42.workers.dev#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_126
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.30:8880?type=ws&path=%2F&host=vms.lifetime39.workers.dev#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_125
-trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E
-vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&host=pane3.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=1&allowInsecure=1#US 🇺🇸 | @Raydikalx | 714AA4
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:8080?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-963121464
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:8880?type=ws&path=%2F&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-1033577555
+vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@cloudflare-ech.com:8880?encryption=none&security=none&type=ws&host=hidden-union-a4b2.436.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#CA 🇨🇦 | @Raydikalx | 16D66B
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-914032325
+vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@172.67.174.37:8880?host=purple-disk-f68d.14-360.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&sni=purple-disk-f68d.14-360.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | E5E832
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:8880?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-932037156
+vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@172.67.209.127:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=gentle-cell-501a.273-d6b.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:2052?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-932044171
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-914032318
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:2052?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-929162118
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net+&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 871BC4
+trojan://humanity@104.18.152.187:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.18.152.159:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://humanity@104.16.174.109:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.18.152.143:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.16.174.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2086?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-959372301
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:80?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-931999018
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.34.14:2082?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-953044997
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.34.14:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-932037158
+vless://e9d9f06f-d5dd-460a-998f-52efc4732636@172.64.144.180:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=bitter-meadow-1d60.313-0f9.workers.dev#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB/s
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:2095?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-931998990
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:8080?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#CA 🇨🇦 | @Raydikalx | C269F9
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:2052?type=ws&path=%2F%3Fed%3D2560security%3Dtls+&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-1015634519
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.2:8880?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:80?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-928804141
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:80?type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-941486956
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vless-897227598
+trojan://humanity@104.18.152.175:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9

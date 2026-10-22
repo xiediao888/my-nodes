@@ -1,3 +1,1 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.156.45:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@177.1.187.183:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@69.42.222.165:443?&security=reality&flow=xtls-rprx-vision&pbk=ST900c3lnBenLZfgTP95GPCXNm2dOpwQ7R5WShAKjSs&sid=7271129440ade8fa&fp=firefox&sni=api.moscowvibe.fyi&type=tcp&headerType=none&host=api.moscowvibe.fyi&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9IT-202.50.253.90-0394

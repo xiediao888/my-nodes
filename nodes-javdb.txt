@@ -1,13 +1,6 @@
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?security=reality&type=tcp&packetEncoding=xudp&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&flow=xtls-rprx-vision&sid=2c9a2790ad5900b2&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&encryption=none#DE 🇩🇪 | @Raydikalx | 9D236F
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de10.pad-sservice.lat:8443?host=de10.pad-service.com&path=%2FDE10W&security=tls&sni=de10.pad-sservice.lat&type=ws#DE 🇩🇪 | @Raydikalx | 9F6C4E
-vless://b7d3a581-74d6-4ead-9235-ce9dedf08152@trdatair.egekaradecojistik.net.tr:31811?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=token.safebrowsing.apple&mode=auto&path=/&pbk=kEnZ9mwfuIMLNUNoqFasZ4HKI9CECeqOxJXho-M1BGs&security=reality&sid=1108915338&sni=play.googleapis.com&spx=/8fd6b5adc6e3c8b&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#TR 🇹🇷 | @Raydikalx | 44AC8E
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1602...%20%231
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1602...%20%239
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My44MToxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR 🇹🇷 | @Raydikalx | ACFA13
-vless://35da102e-536b-4103-9632-58c7c4c6303b@nl2.originmesh.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1C9KA3E5JNdBQy3NMmH8GBEeJp_Etpw9HopV6RNOHXM&sid=eecfe76af97a6132&sni=nl2.originmesh.online#NL 🇳🇱 | @Raydikalx | 748C7F
-vless://fc21089b-9d5d-4285-8a36-dab4b83d1699@es-04.avroraservice.online:8443?type=xhttp&security=reality&fp=chrome&pbk=dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638&sid=01f0a0809d05552b&sni=cdn-es.cahmes.space&path=/xhttp&mode=stream-one#RU 🇷🇺 | @Raydikalx | 180347
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My41NDoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45OToxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My4xODoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1602...%20%236
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA

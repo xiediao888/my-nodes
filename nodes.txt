@@ -1,10 +1,13 @@
-trojan://humanity@172.66.0.172:443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 80CB28
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@212.34.128.120:443?mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=firefox&type=xhttp&sni=podcasts.blog-forme.ru&sid=fb3a5f2d4ca346ed#NL 🇳🇱 | @Raydikalx | 7AC241
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@jp-1.bnc-gt.co.uk:443?type=grpc&security=tls&fp=chrome&sni=b.jp-1.bnc-gt.co.uk&serviceName=grpc#JP 🇯🇵 | @Raydikalx | 743B63
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
+vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@api.mediaklenov.cc:443?alpn=h2&fp=qq&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc#RU 🇷🇺 | @Raydikalx | EB4090
+vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc#RU 🇷🇺 | @Raydikalx | D23BA4
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@212.34.128.120:2083?mode=auto&path=/v2/sync/af2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&type=xhttp&sni=podcasts.blog-forme.ru&sid=fb3a5f2d4ca346ed#NL 🇳🇱 | @Raydikalx | 634EC1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?fp=qq&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#JP 🇯🇵 | @Raydikalx | 7A38C5
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.21:443?type=grpc&security=tls&fp=qq&sni=a.es-2.bnc-gt.co.uk&serviceName=grpc#LT 🇱🇹 | @Raydikalx | AEE8E8
+trojan://humanity@172.66.0.172:443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 80CB28
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@radio.blog-forme.ru:443?type=xhttp&security=reality&fp=chrome&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&sni=radio.blog-forme.ru&path=/v2/sync/af2c0c&mode=auto#NL 🇳🇱 | @Raydikalx | E5928B
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@212.34.128.120:443?mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=firefox&type=xhttp&sni=podcasts.blog-forme.ru&sid=fb3a5f2d4ca346ed#NL 🇳🇱 | @Raydikalx | 7AC241
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.21:443?type=grpc&security=tls&fp=qq&sni=a.es-2.bnc-gt.co.uk&serviceName=grpc#LT 🇱🇹 | @Raydikalx | AEE8E8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My43MjoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9

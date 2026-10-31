@@ -1,12 +1,35 @@
-trojan://humanity@104.17.121.71:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 9A9CCD
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@radio.blog-forme.ru:443?mode=auto&path=/v2/sync/af2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=chrome&type=xhttp&sni=radio.blog-forme.ru&sid=fb3a5f2d4ca346ed#NL 🇳🇱 | @Raydikalx | E5928B
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My40NToxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@podcasts.blog-forme.ru:2083?mode=auto&path=/v2/sync/af2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=chrome&type=xhttp&sni=podcasts.blog-forme.ru&sid=fb3a5f2d4ca346ed#NL 🇳🇱 | @Raydikalx | 0071AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45OToxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9IT-202.50.253.36-0453
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My43MjoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@87.199.207.116:443?type=xhttp&security=reality&fp=firefox&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&sni=docs.blog-forme.ru&path=%2Fv2%2Fsync%2Faf2c0c#NL 🇳🇱 | @Raydikalx | 957859
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9IT-202.50.253.54-0121
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9IT-202.50.253.18-0120
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9IT-202.50.253.63-0176
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45MDoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
+trojan://humanity@104.18.42.190:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 233D5C
+trojan://humanity@172.66.0.118:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 7944E1
+trojan://humanity@104.18.46.127:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | B5B019
+vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgQjg2RTY5Iiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://humanity@104.17.162.3:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | F2CC1F
+trojan://humanity@104.17.155.44:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 358B04
+trojan://humanity@104.17.28.10:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 2934F5
+trojan://humanity@104.17.49.122:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | FDEA7D
+vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgMzhBRTBCIiwic2N5IjoiYXV0byIsInNuaSI6Im1kay5tZG1la2psbC5iZXN0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://humanity@104.18.35.31:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 14141F
+trojan://humanity@172.64.155.36:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 07891B
+vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1NTM4NiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgNTM2OTFDIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://humanity@104.17.117.104:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | D12728
+trojan://humanity@178.93.160.132:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SG 🇸🇬 | @Raydikalx | B71AE4
+trojan://humanity@168.144.41.69:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SG 🇸🇬 | @Raydikalx | 3A19BC
+trojan://humanity@104.16.245.194:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | D4FEFE
+trojan://humanity@104.17.167.134:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 5BA530
+trojan://humanity@104.17.221.194:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 1C776D
+trojan://humanity@104.16.244.188:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | BC72F1
+trojan://humanity@35.78.243.103:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#JP 🇯🇵 | @Raydikalx | 818BDC
+trojan://humanity@103.224.84.7:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#TH 🇹🇭 | @Raydikalx | 143794
+trojan://humanity@172.64.229.7:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | B245F7
+trojan://humanity@104.17.110.1:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 57C753
+trojan://humanity@104.19.154.200:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 0AE530
+trojan://humanity@104.17.148.111:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 99B358
+trojan://humanity@172.64.154.144:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 3AB501
+trojan://humanity@104.18.33.121:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 9836D8
+trojan://humanity@104.16.240.177:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 42C3A4
+trojan://humanity@104.17.98.29:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 2AD1C2
+trojan://humanity@104.17.119.105:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 4F2836
+trojan://humanity@104.18.0.1:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 81B71A
+trojan://humanity@104.17.116.75:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 379882
+trojan://humanity@104.17.191.193:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 4E960C
+trojan://humanity@172.67.74.177:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 8194ED
+trojan://humanity@104.18.47.138:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CA 🇨🇦 | @Raydikalx | 185B2A
